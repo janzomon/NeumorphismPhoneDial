@@ -30,8 +30,8 @@ A Phone Dial in the style of Neumorphism
 
 
 ## Images
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-11-24 at 18 13 43](https://github.com/user-attachments/assets/127e97f8-3aa6-4996-8ea2-d46369b60363)
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2024-11-13 at 14 27 17](https://github.com/user-attachments/assets/56302a4a-ed78-4e04-8d54-0d314805ad7a)
 
 ## Feedback
 
